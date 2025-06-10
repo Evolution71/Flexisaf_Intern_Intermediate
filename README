@@ -1,0 +1,5 @@
+This model is build with logistics regression model,where we want to know people that qualified to get load from 
+our company based on their Age,Credit Score,Loan Purpose etc,with this features i was able to predict users who passed our loan offer.
+The algorithym used is LogisticRegression(solver='newton-cholesky'),it gave me an accuracy of 1.
+This model can be used in the production environment where company can be able to access it to solve their business problems.
+Feel free to contact me for solutions at https://Github.com/Evolution71/
